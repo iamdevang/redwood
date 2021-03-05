@@ -103,11 +103,11 @@ intervention. The principles of JAMstack and serverless make this possible.
 
 Redwood believes that it should be equally useful for writing both simple, toy
 applications and complex, mission-critical applications. In addition, it should
-require very little operational work to grow your app from the former to the
+requires very little operational work to grow your app from the former to the
 latter.
 
-Redwood believes that you can use JavaScript as your primary language on both
-the frontend and backend. Using a single language simplifies everything
+Redwood believes that you can use JavaScript as your primary language on
+the frontend as well as backend. Using a single language simplifies everything
 from code reuse to hiring developers.
 
 ## How it works
